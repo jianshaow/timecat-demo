@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Link, Routes, Route, Navigate} from "react-router-dom";
+import { Link, Routes, Route} from "react-router-dom";
 import Form from "./Form";
 import Home from './Home';
 import { Recorder } from "timecatjs";
